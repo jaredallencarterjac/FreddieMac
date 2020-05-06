@@ -147,4 +147,3 @@ rbs-db-user-setup.sql
 # Gradle stuff
 gradlew
 gradlew.bat
-*.gradle
